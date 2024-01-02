@@ -34,7 +34,7 @@ Thank you.
  - Group project - Testing site [flip.ro](https://flip.ro/)
      - [Project files](https://github.com/iuliantanaselea/BDD_FLIP.RO-PROJECT)
 
- - Group project - API Testing for Spotify
+ - Final project - API Testing for Spotify
      - [Project files](https://github.com/iuliantanaselea/API_TESTING_SPOTIFY)
        
  - Individual project - Testing site [automationexercise.com](https://automationexercise.com/)
