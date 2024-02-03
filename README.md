@@ -1,11 +1,14 @@
 # Portfolio
 
 # About me
-My name is Iulian, a Romanian architect and computational designer, embarked on an adventure to learn Python. 
-I'm working on growing my knowledge on Python Development and Quality Assurance Automation testing using Selenium, as well as API Testing.
+As a dedicated architect and computational designer, my journey into Python Development and Quality Assurance Automation Testing signifies a shift towards the dynamic intersection of design and technology.
+
+Armed with a robust educational background in architecture, including international experiences with Erasmus scholarships in Greece and France, I am currently deepening my expertise in 3D Modeling with Python with an online class provided by the University of Michigan.
+
+Recently completing a QA Automation Testing course at IT Factory, I am excited to leverage my analytical mindset and attention to detail to elevate software quality and reliability.
 
 Fell free to connect on [LinkedIn](https://www.linkedin.com/in/iuliantanaselea/) if you want to know more about my work and discuss. ✨
-Thank you. 
+
 # Tools
  - [Postman](https://www.postman.com/) - Testing tool for REST API
  - [Selenium](https://pypi.org/project/selenium/) - The selenium package is used to automate web browser interaction from Python.
