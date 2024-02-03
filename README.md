@@ -13,7 +13,8 @@ Thank you.
  - Github
 
 # Tech skills
- - SQL
+ - Python
+ - MySQL
  - REST API
  - OOP
  - Web testing
@@ -21,6 +22,7 @@ Thank you.
  - BDD
  - API testing
  - Creating test cases
+ - Agile methodology
 
 # Courses
  - [IT Factory - Python and Test Automation](https://www.itfactory.ro/python-automation/)
